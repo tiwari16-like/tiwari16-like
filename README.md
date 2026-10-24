@@ -2,31 +2,31 @@
 
 Aspiring Engineer | Performer | Soul
 
-- 🔭 I’m currently working on **Interview Simulator with Micro-Expression Analysis** — a smart solution for candidates to improve interview performance
-- 🌱 I’m currently learning **Computer Science Engineering fundamentals** and exploring **AI/ML, Cybersecurity & System Design**
+- 🔭 I’m currently working on **DAM INUNDATION FRAMEWORK** — a smart solution for candidates to improve interview performance
+- 🌱 I’m currently learning **Computer Science Engineering fundamentals** and exploring **AI/ML, PYTHON, SQL, GEOTECHNOLOGY**
 - 👯 I’m looking to collaborate on **innovative tech projects, startups, and open-source contributions**
-- 🤔 I’m looking for help with **scaling ideas into real-world impactful products**
-- 💬 Ask me about **entrepreneurship, creativity, tech ideas, student leadership, and project building**
+- 🤔 I’m looking for help with **scaling ideas into real-world impactful products and dynamic solutions**
+- 💬 Ask me about **entrepreneurship, creativity, tech ideas, Geotech, student leadership, and project building**
 - 📫 How to reach me: **[agustd03gouri07@gmail.com / www.linkedin.com/in/gouri-tiwari-496585329]**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: "You can call me an artist, you can call me an engineer, I’m a CS student who is collecting 'Proof' of my passions every day. But the most exciting part? The best of me is 'Yet to Come."
 
 ### 🛠️ Tech & Skills
 
-- Programming: C++, Basics of Python
+- Programming: C++, Python, SQL
 - Core: **Computer Science Engineering (Fundamentals)**
-- Interests: Cybersecurity, Startups, Product Design
+- Interests: GEOTECHNOLOGY, Startups, Product Design 
 
 
 
 ### 📈 Current Focus
 
-- Building **E-Cell ecosystem in my college**
+- Building **OUTCOME ecosystem in my college**
 - Working on **real-world problem statements & case studies**
 - Preparing for **competitive exams & technical mastery**
 
 # 💫 About Me:
-I’m currently working on **Interview Simulator with Micro-Expression Analysis** — a smart solution for candidates to improve interview performance<br>- 🌱 I’m currently learning **Computer Science Engineering fundamentals** and exploring **AI/ML, Cybersecurity & System Design**<br>- 👯 I’m looking to collaborate on **innovative tech projects, startups, and open-source contributions**<br>- 🤔 I’m looking for help with **scaling ideas into real-world impactful products**<br>- 💬 Ask me about **entrepreneurship, creativity, tech ideas, student leadership, and project building**<br>- 😄 Pronouns: **She/Her**<br>- ⚡ Fun fact: "You can call me an artist, you can call me an engineer, I’m a CS student who is collecting 'Proof' of my passions every day. But the most exciting part? The best of me is 'Yet to Come."<br>
+I’m currently working on **DAM INUNDATION FRAMEWORK** 🌱 I’m currently learning **Computer Science Engineering fundamentals** and exploring **AI/ML, SEMICONDUCTOR & System Design**<br>- 👯 I’m looking to collaborate on **innovative tech projects, startups, and open-source contributions**<br>- 🤔 I’m looking for help with **scaling ideas into real-world impactful products**<br>- 💬 Ask me about **entrepreneurship, creativity, tech ideas, student leadership, and project building**<br>- 😄 Pronouns: **She/Her**<br>- ⚡ Fun fact: "You can call me an artist, you can call me an engineer, I’m a CS student who is collecting 'Proof' of my passions every day. But the most exciting part? The best of me is **"Yet to Come."** <br>
 
 
 ## 🌐 Socials:
